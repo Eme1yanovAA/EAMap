@@ -17,7 +17,7 @@
 1. **Клонирование репозитория**
    ```bash
    git clone <repository-url>
-   cd MapLab
+   cd EAMap
    ```
 
 2. **Установка зависимостей**
